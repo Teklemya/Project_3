@@ -26,7 +26,8 @@ Hover effect was added to make the cards pop out more
 ## Video Walkthrough
 
 Here's a walkthrough of implemented required features:
-![Ethiopian Menu](https://i.imgur.com/n7ebF2R.gif)
+![flashcard](https://github.com/user-attachments/assets/836e2af5-4ba7-4a35-b7bb-4a03b14c4954)
+
 <img src='https://i.imgur.com/n7ebF2R.gif' title='Ethiopian Menu' width='' alt='Ethiopian Menu' />
 
 <!-- Replace this with whatever GIF tool you used! -->
