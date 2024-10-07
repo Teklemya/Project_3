@@ -55,7 +55,7 @@ const Flashcard = ({ question, answer, handleNextCard }) => {
         }} 
         style={{ marginTop: '20px', padding: '10px 20px', cursor: 'pointer' }}
       >
-        Next Card
+        Randomzie Card
       </button>
     </div>
   );
