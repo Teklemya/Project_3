@@ -29,6 +29,7 @@ The following **additional** features are implemented:
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
+![flashcardpt2](https://github.com/user-attachments/assets/c48b3ed9-4053-48b9-a803-58f5d1aee675)
 
 <img src='https://imgur.com/WfMqiEq' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
